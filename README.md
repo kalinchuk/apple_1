@@ -6,6 +6,10 @@ Apple-1 motherboards are available for sale at [https://www.kalinchuk.com/produc
 
 This repository was created in conjunction with the [Building the Apple-1 YouTube video](https://youtu.be/XG5PeAzQp0w). Mike Willegal also made an [Apple-1 construction guide](https://www.willegal.net/appleii/A1-assembly-v1.1.pdf) that I thought was great.
 
+## Gerbers
+
+You can find the Mainboard and ACI PCB gerbers under the "Gerbers" directory.
+
 ## Parts
 
 | PART     | DESCRIPTION     | QUANTITY  | SOURCE |
