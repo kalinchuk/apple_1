@@ -4,7 +4,7 @@ The repository contains build details for the Apple-1 computer. You can find the
 
 Apple-1 motherboards are available for sale at [https://www.kalinchuk.com/product-page/apple-1-replica-pcb-gold-plated](https://www.kalinchuk.com/product-page/apple-1-replica-pcb-gold-plated). The ACI (Apple Cassette Interface) boards are also available at [https://www.kalinchuk.com/product-page/aci-apple-cassette-interface-pcb-for-the-apple-1-gold-plated](https://www.kalinchuk.com/product-page/aci-apple-cassette-interface-pcb-for-the-apple-1-gold-plated).
 
-This repository was created in conjunction with the [Building the Apple-1 YouTube video](https://youtu.be/XG5PeAzQp0w).
+This repository was created in conjunction with the [Building the Apple-1 YouTube video](https://youtu.be/XG5PeAzQp0w). Mike Willegal also made an [Apple-1 construction guide](https://www.willegal.net/appleii/A1-assembly-v1.1.pdf) that I thought was great.
 
 ## Parts
 
