@@ -10,7 +10,7 @@ This repository was created in conjunction with the [Building the Apple-1 YouTub
 
 | PART     | DESCRIPTION     | QUANTITY  | SOURCE |
 |----------|-----------------|-----------|-------------------------|
-| 2513     | Char. generator  | 1         | eBay; Can be substituted with CM2140) |
+| 2513     | Char. generator  | 1         | eBay; Can be substituted with CM2140 |
 | 8T97     | Bus driver       | 2        | eBay                    |
 | MMI 3601 | 256x4 PROM (A1 & A2) | 2    | [apple-1-replica.com](https://www.apple-1-replica.com/shop/Apple-1-PROMs-Wozmon-p561222037) or eBay |
 | 2504v    | Shift register   | 7        | [apple-1-replica.com](https://www.apple-1-replica.com/shop/AM-2804PC-Shift-Register-Set-of-7-p561219796) or eBay; Can be substituted with AM2804 |
