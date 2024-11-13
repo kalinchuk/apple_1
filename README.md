@@ -79,6 +79,10 @@ You can find the Mainboard and ACI PCB gerbers under the "Gerbers" directory.
 | 24 pin socket | | 2 | DigiKey; Jameco |
 | 40 pin socket | | 2 | DigiKey; Jameco |
 
+## Reliability
+
+I have found that the Apple-1 is fairly reliable. If you do run into reliability issues, I would recommend taking a look at Uncle Bernies "reliability mod" at [https://www.applefritter.com/content/part-path-towards-rock-solid-apple-1-builds](https://www.applefritter.com/content/part-path-towards-rock-solid-apple-1-builds).
+
 ## Software
 
 You can find some audio-based software at [https://www.isdi.com/Apple1/SW/](https://www.isdi.com/Apple1/SW/) including Apple Basic.
