@@ -78,3 +78,7 @@ You can find the Mainboard and ACI PCB gerbers under the "Gerbers" directory.
 | 8 pin socket | | 1 | DigiKey; Jameco |
 | 24 pin socket | | 2 | DigiKey; Jameco |
 | 40 pin socket | | 2 | DigiKey; Jameco |
+
+## Software
+
+You can find some audio-based software at [https://www.isdi.com/Apple1/SW/](https://www.isdi.com/Apple1/SW/) including Apple Basic.
