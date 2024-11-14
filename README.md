@@ -6,11 +6,15 @@ Apple-1 motherboards are available for sale at [https://www.kalinchuk.com/produc
 
 This repository was created in conjunction with the [Building the Apple-1 YouTube video](https://youtu.be/XG5PeAzQp0w). Mike Willegal also made an [Apple-1 construction guide](https://www.willegal.net/appleii/A1-assembly-v1.1.pdf) that I thought was great.
 
+The [ACI assembly and operation YouTube video](https://youtu.be/I5dlvq9Bf98) contains detailed instructions. You can also reference [Mike Willegal's Guide](https://www.willegal.net/appleii/aci-v0.18.pdf) which contains a lot of additional information.
+
 ## Gerbers
 
 You can find the Mainboard and ACI PCB gerbers under the "Gerbers" directory.
 
 ## Parts
+
+### Mainboard
 
 | PART     | DESCRIPTION     | QUANTITY  | SOURCE |
 |----------|-----------------|-----------|-------------------------|
@@ -78,6 +82,31 @@ You can find the Mainboard and ACI PCB gerbers under the "Gerbers" directory.
 | 8 pin socket | | 1 | DigiKey; Jameco |
 | 24 pin socket | | 2 | DigiKey; Jameco |
 | 40 pin socket | | 2 | DigiKey; Jameco |
+
+### ACI
+
+| PART     | DESCRIPTION     | QUANTITY  | SOURCE |
+|----------|-----------------|-----------|-------------------------|
+| 16 pin socket  | For PROMs              | 2 DigiKey; Jameco; |
+| 14 pin socket  | For 74xx ICs           | 3 DigiKey; Jameco; |
+| 8 pin socket   | For LM311              | 1 DigiKey; Jameco; |
+| LM311          | Voltage comparator     | 1 DigiKey; Jameco; |
+| 7402           | Quad 2 input nor gate  | 1 DigiKey; Jameco; |
+| 7410           | Triple 3 input nand gate  | 1
+| 74LS74         | Dual D type flip flop     | 1 | DigiKey; Jameco; 74LS74 works better than 7474 |
+| 6301           | APPLE-A3 256x4 PROM       | 1 | eBay; I used [82S129](https://www.ebay.com/itm/315955289957) |
+| 6301           | APPLE-A4 256x4 PROM       | 1 | eBay; I used [82S129](https://www.ebay.com/itm/315955289957) |
+| 0.1uF          | Ceramic capacitor         | 1 | DigiKey; Jameco; |
+| 100 ohm        | Brown-black-brown         | 2 | DigiKey; Jameco; |
+| 3K             | Orange-black-red          | 1 | DigiKey; Jameco; |
+| 10K            | Brown-black-orange-gold   | 1 | DigiKey; Jameco; |
+| 10K            | 1% resistor               | 4 | DigiKey; Jameco; |
+| 47K            | Yellow-violet-orange      | 1 | DigiKey; Jameco; |
+| 100K           | Brown-black-yellow        | 1 | DigiKey; Jameco; |
+| MPS3704        | Transistor                | 2 | DigiKey; Jameco; |
+| LED            | Red                       | 1 | DigiKey; Jameco; |
+| Switchcraft #41 | Audio jack               | 2 | [eBay](https://www.ebay.com/itm/265305062588) |
+| Mono audio cable | | 1 | Amazon |
 
 ## Reliability
 
