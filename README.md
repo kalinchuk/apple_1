@@ -87,12 +87,12 @@ You can find the Mainboard and ACI PCB gerbers under the "Gerbers" directory.
 
 | PART     | DESCRIPTION     | QUANTITY  | SOURCE |
 |----------|-----------------|-----------|-------------------------|
-| 16 pin socket  | For PROMs              | 2 DigiKey; Jameco; |
-| 14 pin socket  | For 74xx ICs           | 3 DigiKey; Jameco; |
-| 8 pin socket   | For LM311              | 1 DigiKey; Jameco; |
-| LM311          | Voltage comparator     | 1 DigiKey; Jameco; |
-| 7402           | Quad 2 input nor gate  | 1 DigiKey; Jameco; |
-| 7410           | Triple 3 input nand gate  | 1
+| 16 pin socket  | For PROMs              | 2 | DigiKey; Jameco; |
+| 14 pin socket  | For 74xx ICs           | 3 | DigiKey; Jameco; |
+| 8 pin socket   | For LM311              | 1 | DigiKey; Jameco; |
+| LM311          | Voltage comparator     | 1 | DigiKey; Jameco; |
+| 7402           | Quad 2 input nor gate  | 1 | DigiKey; Jameco; |
+| 7410           | Triple 3 input nand gate  | 1 | DigiKey; Jameco; |
 | 74LS74         | Dual D type flip flop     | 1 | DigiKey; Jameco; 74LS74 works better than 7474 |
 | 6301           | APPLE-A3 256x4 PROM       | 1 | eBay; I used [82S129](https://www.ebay.com/itm/315955289957) |
 | 6301           | APPLE-A4 256x4 PROM       | 1 | eBay; I used [82S129](https://www.ebay.com/itm/315955289957) |
