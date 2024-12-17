@@ -2,15 +2,17 @@
 
 The repository contains build details for the Apple-1 computer. You can find the parts list (and specific parts that I used in my build) below.
 
-Apple-1 motherboards are available for sale at [https://www.kalinchuk.com/product-page/apple-1-replica-pcb-gold-plated](https://www.kalinchuk.com/product-page/apple-1-replica-pcb-gold-plated). The ACI (Apple Cassette Interface) boards are also available at [https://www.kalinchuk.com/product-page/aci-apple-cassette-interface-pcb-for-the-apple-1-gold-plated](https://www.kalinchuk.com/product-page/aci-apple-cassette-interface-pcb-for-the-apple-1-gold-plated).
+Apple-1 motherboards are available for sale at [https://www.kalinchuk.com/product-page/apple-1-replica-pcb-gold-plated](https://www.kalinchuk.com/product-page/apple-1-replica-pcb-gold-plated). The ACI (Apple Cassette Interface) boards are available at [https://www.kalinchuk.com/product-page/aci-apple-cassette-interface-pcb-for-the-apple-1-gold-plated](https://www.kalinchuk.com/product-page/aci-apple-cassette-interface-pcb-for-the-apple-1-gold-plated). The Serial Interface boards are available at [https://www.kalinchuk.com/product-page/serial-interface-pcb-for-the-apple-1-gold-plated](https://www.kalinchuk.com/product-page/serial-interface-pcb-for-the-apple-1-gold-plated).
 
 This repository was created in conjunction with the [Building the Apple-1 YouTube video](https://youtu.be/XG5PeAzQp0w). Mike Willegal also made an [Apple-1 construction guide](https://www.willegal.net/appleii/A1-assembly-v1.1.pdf) that I thought was great.
 
 The [ACI assembly and operation YouTube video](https://youtu.be/I5dlvq9Bf98) contains detailed instructions. You can also reference [Mike Willegal's Guide](https://www.willegal.net/appleii/aci-v0.18.pdf) which contains a lot of additional information.
 
+The case was assembled in [this YouTube video](https://youtu.be/Oz16qZyj4AE) and you can find additional information below under the "Case" subheading.
+
 ## Gerbers
 
-You can find the Mainboard and ACI PCB gerbers under the "Gerbers" directory.
+You can find the Mainboard, ACI PCB and Serial Board gerbers under the "Gerbers" directory.
 
 ## Parts
 
@@ -107,6 +109,30 @@ You can find the Mainboard and ACI PCB gerbers under the "Gerbers" directory.
 | LED            | Red                       | 1 | DigiKey; Jameco; |
 | Switchcraft #41 | Audio jack               | 2 | [eBay](https://www.ebay.com/itm/265305062588) |
 | Mono audio cable | | 1 | Amazon |
+
+### Serial Board
+
+Refer to [https://github.com/flowenol/apple1serial](https://github.com/flowenol/apple1serial) for the parts list and operation of the serial board.
+
+### Case
+
+| PART | DESCRIPTION | QUANTITY | SOURCE |
+|------|-------------|----------|--------|
+| Fan  | 110V, 0.05A, 60mmx60mm | 1 | [DigiKey](https://www.digikey.com/en/products/detail/sanyo-denki-america-inc/109-180/6190533) |
+| Fan Grill | 60mmx60mm | 1 | [DigiKey](https://www.digikey.com/en/products/detail/sanyo-denki-america-inc/109-139E/6191743) |
+| Power Switch | SPST 125V | 1 | [DigiKey](https://www.digikey.com/en/products/detail/nkk-switches/SW3001A/1049379) |
+| Acrylic Panels | See below for the list of panels purchased | N/A | [TAP Plastics](www.tapplastics.com) |
+| Frame | 1/2" L-shape aluminum | 2 | [Lowes](https://www.lowes.com/pd/Steelworks-1-2-in-W-x-1-2-in-H-x-8-ft-L-Mill-Finished-Aluminum-Solid-Angle/3058167) |
+
+## Case
+
+I decided to build a Byte Shop style case for my Apple-1 but made it out of acrylic so the insides could be seen. I purchased all the panels I needed from an online store called [TAP Plastics](www.tapplastics.com). You can see the order details below:
+
+Coming soon
+
+And this is how it turned out after being assembled:
+
+Coming soon
 
 ## Reliability
 
