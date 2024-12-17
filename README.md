@@ -128,11 +128,13 @@ Refer to [https://github.com/flowenol/apple1serial](https://github.com/flowenol/
 
 I decided to build a Byte Shop style case for my Apple-1 but made it out of acrylic so the insides could be seen. I purchased all the panels I needed from an online store called [TAP Plastics](www.tapplastics.com). You can see the order details below:
 
-Coming soon
+<img width="696" alt="Acrylic Order" src="https://github.com/user-attachments/assets/8932f0e1-4c3e-4197-aafa-384326221cc9" />
 
 And this is how it turned out after being assembled:
 
-Coming soon
+<img width="600" alt="Case 1" src="https://github.com/user-attachments/assets/bb8e222a-8e84-434a-8ddd-b55d2540717b"/>
+
+<img width="600" alt="Case 2" src="https://github.com/user-attachments/assets/5aa08696-a85b-4b06-9434-62966cfab6f9" />
 
 ## Reliability
 
