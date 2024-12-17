@@ -8,7 +8,7 @@ This repository was created in conjunction with the [Building the Apple-1 YouTub
 
 The [ACI assembly and operation YouTube video](https://youtu.be/I5dlvq9Bf98) contains detailed instructions. You can also reference [Mike Willegal's Guide](https://www.willegal.net/appleii/aci-v0.18.pdf) which contains a lot of additional information.
 
-The case was assembled in [this YouTube video](https://youtu.be/Oz16qZyj4AE) and you can find additional information below under the "Case" subheading.
+The case was assembled in [this YouTube video](https://www.youtube.com/watch?v=jQ2AmeDRXos) and you can find additional information below under the "Case" subheading.
 
 ## Gerbers
 
